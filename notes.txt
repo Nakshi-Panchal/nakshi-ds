@@ -1,0 +1,12 @@
+data structure notes
+
+
+git commands: - 
+
+
+git init 
+
+git remote add origin https://github.com/tejasshah2k19/nakshi-ds.git
+
+
+git add notes.txt A.java 
